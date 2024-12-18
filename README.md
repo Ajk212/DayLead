@@ -36,3 +36,36 @@ Date Dialog
 
 ![Updated_Home](https://github.com/user-attachments/assets/bbf94e8e-70d9-4f0b-a6c0-e83da77020a2)
 Home Screen with added values
+
+### Alarm 
+The alarm screen has 4 main functions, setting an alarm, resetting the alarm, changing alarm type, and controlling a stopwatch. The user interface is quite straightforward, where setting the alarm is similar to setting the local time. Changing the alarm type can be done with the "Light Sleeper" button. When the text shows as "Light Sleeper", a gentle, but effective alarm is played upon the activation time. When pressed, the text changes to "Heavy Sleeper" and alters the alarm sound to a louder beeping. 
+
+![Alarm_Screen](https://github.com/user-attachments/assets/86794fc7-b00f-49fc-8466-76c1dcc9eae0)
+Alarm Screen layout
+
+![Alarm_trigger](https://github.com/user-attachments/assets/553b3e5c-085b-48d6-b2bc-17f9b5dc7b21)
+Alarm trigger
+
+### Calendar 
+The calendar screen is meant to dynamically update with the user's local time, highlighting the current date and can give a look into past or future months. This page is currently incomplete but has a general layout instantiated. 
+
+![Calendar_screen](https://github.com/user-attachments/assets/b0b2b17c-9510-4ba4-be17-486b45990f70)
+Calendar Screen Layout
+
+### Kanban 
+The kanban screen provides an effective tool to boost productivity. Acting as a To-Do list, the user can add notes to the "Backlog" column. When the respective note is tapped, it moves to the next column, "Underway", and finally to "Complete". When a note is tapped in the "Complete" section, it is removed from the page and deleted. The notes move to the first available position in the next column, allowing for up to 15 notes to be active at one time. 
+
+![Kanban_Screen](https://github.com/user-attachments/assets/3b70ebca-1402-46e9-828c-cbef05c5268b)
+Kanban Screen layout
+
+### Habits
+The habits screen can allow a user to catalog and keep track of routines they would like to make or break. The user can add up to 5 habits, with each having a delete button, completion indicator, and streak tracker. The completion indicator, when tapped, changes to either Complete/Incomplete to mark whether the habit was kept today. The streak function is meant to update at the end of the day, adding a point to every habit completed. This function is currently unavailable due to its reliance on the calendar page. All habits added are also logged on the home screen.
+
+![Habit_Screen](https://github.com/user-attachments/assets/279fa15f-8bc5-4bc2-a0b4-2d7ab6aedb6b)
+Habit Screen layout
+
+### Reminders
+The reminders screen allows 6 reminders to be added. Each reminder can be kept or deleted with the red button. All reminders are displayed on the main page. This page is similar to the habits page, but is meant to be used for short-term items, like doctor's appointments or homework due dates.
+
+![Reminder_page](https://github.com/user-attachments/assets/2197f7a7-8162-401a-b558-519a1d2235be)
+Reminder Screen layout
