@@ -79,5 +79,19 @@ Throughout the creation of this project, many challenges were faced. The largest
 My plan for testing my app was to ensure the completion of one section as much as possible before moving on. The main benefit of this plan was that most of the pages did not rely on the completion of any other, so they could be constructed independently. Once a page reached an acceptable state, I tried to break it. If it were to break, I would patch the code and move to the next function. I began by creating the home page and the navigation buttons. After that, I worked on the page I had ideas for at the moment. While this was a separate plan, it worked out fairly well, with the only non-functional page being the calendar. While I do have a way to create the months accurate to the day, it slowed the program greatly. I opted for its removal so all else could run better and looked to find a more optimized solution.
 
 ![App_Showcase](https://github.com/user-attachments/assets/c70b0e2a-0363-4ead-b9c9-332b4ac47a3e)
-Early iteration app
+Early app iteration
 
+
+## Summary and Future Work
+This project has greatly enhanced my understanding of Python and has given me insight into how apps are developed and integrated with embedded systems. I am satisfied with the progress I've made with this 1.0 version and have many plans for a 2.0 update. Functions I plan to work further on include: optimizing the calendar page, multiple set alarms, more accurate timekeeping, structure improvement, KV file optimization, saving data between sessions, and many more. Now that there is no time constraint, the 2.0 version will have much more functionality and will hopefully run smoother. This has been one of the most entertaining and educational projects I've done to date, and I plan to continue with it. 
+
+# Refrecnes
+Special thanks to the CodeMy.com YouTube channel. Their Kivy tutorial playlist helped me understand the formatting and syntax greatly.
+
+"Light Sleeper" alarm file - https://pixabay.com/users/einnt-20261572/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206">einnt</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206
+
+"Heavy Sleeper" alarm file - https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=29480">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=29480
+
+Clock Icon - created by CreativeCons on FlatIcon.com
+Lightbulb Icon - created by Mihimihi on FlatIcon.com
+Post-It Tabs - Designed by Freepik on Freepik.com
