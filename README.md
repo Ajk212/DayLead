@@ -65,7 +65,19 @@ The habits screen can allow a user to catalog and keep track of routines they wo
 Habit Screen layout
 
 ### Reminders
-The reminders screen allows 6 reminders to be added. Each reminder can be kept or deleted with the red button. All reminders are displayed on the main page. This page is similar to the habits page, but is meant to be used for short-term items, like doctor's appointments or homework due dates.
+The reminders screen allows 6 reminders to be added. Each reminder can be kept or deleted with the red button. All reminders are displayed on the main page. This page is similar to the habits page but is meant to be used for short-term items, like doctor's appointments or homework due dates.
 
 ![Reminder_page](https://github.com/user-attachments/assets/2197f7a7-8162-401a-b558-519a1d2235be)
 Reminder Screen layout
+
+### Design Practices and Challenges
+I wanted to ensure the best user experience for this application. One major component of a good user experience is ease of use. The straightforward design of each page, along with the navigation to each page, ensure no user will be lost in layers of menus, trying to find what they want. All functions are clearly labeled and contribute towards productivity boosts. 
+
+Throughout the creation of this project, many challenges were faced. The largest challenge was my lack of familiarity with Python and Kivy. By following the extensive online documentation and watching explanation videos I was able to keep a steady pace of work while learning Python syntax and kivy methods. Other than the learning curve, time was a major constraint to work around. The time constraint is the reason some functionality is missing or cut, but is also why I was able to achieve so much in such a short time. The final main challenge faced was interconnecting functions and preventing code bloat. The calendar screen, for example, had functional code to implement but slowed the program greatly. I removed this code so that the rest of the program may run as intended, and will work to reduce the load that it puts on the system.
+
+## Design Testing
+My plan for testing my app was to ensure the completion of one section as much as possible before moving on. The main benefit of this plan was that most of the pages did not rely on the completion of any other, so they could be constructed independently. Once a page reached an acceptable state, I tried to break it. If it were to break, I would patch the code and move to the next function. I began by creating the home page and the navigation buttons. After that, I worked on the page I had ideas for at the moment. While this was a separate plan, it worked out fairly well, with the only non-functional page being the calendar. While I do have a way to create the months accurate to the day, it slowed the program greatly. I opted for its removal so all else could run better and looked to find a more optimized solution.
+
+![App_Showcase](https://github.com/user-attachments/assets/c70b0e2a-0363-4ead-b9c9-332b4ac47a3e)
+Early iteration app
+
