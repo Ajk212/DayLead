@@ -85,6 +85,8 @@ My plan for testing my app was to ensure the completion of one section as much a
 ![App_Showcase](https://github.com/user-attachments/assets/c70b0e2a-0363-4ead-b9c9-332b4ac47a3e)
 Early app iteration
 
+![2ndItteration](https://github.com/user-attachments/assets/02db1537-f471-4fab-a422-99ac2a14ffda)
+Second app iteration
 
 ## Summary and Future Work
 This project has greatly enhanced my understanding of Python and has given me insight into how apps are developed and integrated with embedded systems. I am satisfied with the progress I've made with this 1.0 version and have many plans for a 2.0 update. Functions I plan to work further on include: optimizing the calendar page, multiple set alarms, more accurate timekeeping, structure improvement, KV file optimization, saving data between sessions, and many more. Now that there is no time constraint, the 2.0 version will have much more functionality and will hopefully run smoother. This has been one of the most entertaining and educational projects I've done to date, and I plan to continue with it. 
