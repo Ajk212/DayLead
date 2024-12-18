@@ -88,10 +88,12 @@ This project has greatly enhanced my understanding of Python and has given me in
 # Refrecnes
 Special thanks to the CodeMy.com YouTube channel. Their Kivy tutorial playlist helped me understand the formatting and syntax greatly.
 
-"Light Sleeper" alarm file - https://pixabay.com/users/einnt-20261572/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206">einnt</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206
+"Light Sleeper" alarm file - https://pixabay.com/users/einnt-20261572/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206
 
-"Heavy Sleeper" alarm file - https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=29480">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=29480
+"Heavy Sleeper" alarm file - https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=29480
 
 Clock Icon - created by CreativeCons on FlatIcon.com
+
 Lightbulb Icon - created by Mihimihi on FlatIcon.com
+
 Post-It Tabs - Designed by Freepik on Freepik.com
