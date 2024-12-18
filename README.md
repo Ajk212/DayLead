@@ -4,6 +4,7 @@ All software files are contained in DayLead.zip, including the main code, kv des
 The enclosure design is held within Enclosure.svg
 
 10.1 Inch Touchscreen used - https://www.amazon.com/Hosyond-Capacitive-Touchscreen-1280x800-Raspberry/dp/B0CLQZ48BF/ref=sr_1_4?sr=8-4
+
 Raspberry Pi 4b - https://www.digikey.com/en/products/detail/raspberry-pi/SC0193-9/10258782
 
 ## Design Overview
