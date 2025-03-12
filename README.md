@@ -92,7 +92,7 @@ Second app iteration
 ## Summary and Future Work
 This project has greatly enhanced my understanding of Python and has given me insight into how apps are developed and integrated with embedded systems. I am satisfied with the progress I've made with this 1.0 version and have many plans for a 2.0 update. Functions I plan to work further on include: optimizing the calendar page, multiple set alarms, more accurate timekeeping, structure improvement, KV file optimization, saving data between sessions, and many more. Now that there is no time constraint, the 2.0 version will have much more functionality and will hopefully run smoother. This has been one of the most entertaining and educational projects I've done to date, and I plan to continue with it. 
 
-# Refrecnes
+# Refrences
 Special thanks to the CodeMy.com YouTube channel. Their Kivy tutorial playlist helped me understand the formatting and syntax greatly.
 
 "Light Sleeper" alarm file - https://pixabay.com/users/einnt-20261572/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249206
